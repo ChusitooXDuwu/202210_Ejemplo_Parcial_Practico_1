@@ -1,5 +1,5 @@
 # Ejemplo Parcial Práctico 1
-
+Wyo Hann Chu 202015066
 ## Instrucciones
 
 1. Haga un _fork_ de este repositorio
